@@ -1,0 +1,7 @@
+services:
+  memento-mori-api:
+    image: ghcr.io/divin/memento-mori:latest
+    ports:
+      - "8000:8000"
+    environment:
+      TZ: ${TZ:-Europe/Berlin}

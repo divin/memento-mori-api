@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv
+venv/
+env/
+
+# Git
+.git
+.gitignore
+
+# Editor / OS files
+.vscode/
+*.swp
+.DS_Store
+
+# Build
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Other
+.temp
