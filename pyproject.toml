@@ -1,6 +1,6 @@
 [project]
 name = "memento-mori-api"
-version = "0.1.0"
+version = "1.0.0"
 description = "FastAPI service that computes life statistics (weeks left and percentage lived) for a given birthday and life expectancy."
 readme = "README.md"
 authors = [
